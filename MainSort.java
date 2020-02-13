@@ -61,7 +61,7 @@ public class MainSort {
         mergeSort(list);
         System.out.println("\nMerge Sort List:"); //imprime la lista Sort 
         for(int p: list)
-          System.out.print(p + " ");
+        System.out.print(p + " ");
         System.out.println();
         
         /*
